@@ -1,0 +1,72 @@
+{
+  "aluno": {
+    "ID1": {
+      "nome": "Lucas",
+      "idade": 15,
+      "Nº Matricula": "203363"
+    },
+    "ID2": {
+      "nome": "Ana",
+      "idade": 16,
+      "email": "ana83738@etec.sp.gov.br",
+      "Nº Matricula": "203363"
+    },
+    "ID3": {
+      "nome": "Natanael",
+      "idade": 14,
+      "email": "natanael0000@gmail.com",
+      "Nº Matricula": "203363"
+    },
+    "ID4": {
+      "nome": "Ana",
+      "idade": 16,
+      "Nº Matricula": "203363"
+    }
+  },
+  "professor": {
+    "P1": {
+      "nome": "Carlos",
+      "disciplina": "Matematica",
+      "formacao": "Mestrado"
+    },
+    "P2": {
+      "nome": "Maria",
+      "idade": 35,
+      "disciplina": "Portugues",
+      "email": "maria090909@etec.sp.gov.br"
+    },
+    "P3": {
+      "nome": "Maria de Fatima",
+      "disciplina": "Química",
+      "email": "mariafat56576@gmail.com"
+    },
+    "P4": {
+      "nome": "Diogo",
+      "idade": 42,
+      "disciplina": "Biologia",
+      "email": "diogo9898@gmail.com"
+    }
+  },
+  "curso": {
+    "C1": {
+      "nome": "Desenvolvimento de Sistemas",
+      "coordenador": "José de Souza",
+      "predio": "Fatec"
+    },
+    "C2": {
+      "nome": "Desenvolvimento de Sistemas",
+      "coordenador": "Mario Andrade de almeida",
+      "predio": "ETEC"
+    },
+    "C3": {
+      "nome": "Administração",
+      "coordenador": "Elena Pereira",
+      "predio": "Fatec"
+    },
+    "C4": {
+      "nome": "Meio Ambiente",
+      "coordenador": "Paulo de Souza",
+      "predio": "ETEC"
+    }
+  }
+}
