@@ -1,72 +1,130 @@
 {
-  "aluno": {
+  "Aluno": {
     "ID1": {
-      "nome": "Lucas",
-      "idade": 15,
+      "Nome": "Lucas Pereira da Silva",
+      "Idade": 15,
       "Nº Matricula": "203363"
     },
     "ID2": {
-      "nome": "Ana",
-      "idade": 16,
-      "email": "ana83738@etec.sp.gov.br",
-      "Nº Matricula": "203363"
+      "Nome": "Ana Albuquerque de Sousa",
+      "Idade": 16,
+      "Email": "ana83738@etec.sp.gov.br",
+      "Nº Matricula": "245846"
     },
     "ID3": {
-      "nome": "Natanael",
-      "idade": 14,
-      "email": "natanael0000@gmail.com",
-      "Nº Matricula": "203363"
+      "Nome": "Natanael Lopes",
+      "Idade": 14,
+      "Email": "natanael0000@gmail.com",
+      "Nº Matricula": "220145"
     },
     "ID4": {
-      "nome": "Ana",
-      "idade": 16,
-      "Nº Matricula": "203363"
+      "Nome": "Ana Moro",
+      "Idade": 16,
+      "Nº Matricula": "556899"
     }
   },
-  "professor": {
+  "Professor": {
     "P1": {
-      "nome": "Carlos",
-      "disciplina": "Matematica",
-      "formacao": "Mestrado"
+      "Nome": "Carlos Silva Santos",
+      "Disciplina": "Matematica",
+      "Formação": "Mestrado"
     },
     "P2": {
-      "nome": "Maria",
-      "idade": 35,
-      "disciplina": "Portugues",
-      "email": "maria090909@etec.sp.gov.br"
+      "Nome": "Maria de Lourdes Almeida",
+      "Idade": 35,
+      "Disciplina": "Portugues",
+      "Email": "maria090909@etec.sp.gov.br",
+      "Formação": "Doutorado"
     },
     "P3": {
-      "nome": "Maria de Fatima",
-      "disciplina": "Química",
-      "email": "mariafat56576@gmail.com"
+      "Nome": "Maria de Fatima Vieira",
+      "Disciplina": "Química",
+      "Email": "mariafat56576@gmail.com",
+      "Formação": "Pós-Graduação"
     },
     "P4": {
-      "nome": "Diogo",
-      "idade": 42,
-      "disciplina": "Biologia",
-      "email": "diogo9898@gmail.com"
+      "Nome": "Diogo de Vasconcellos Biotschwisk",
+      "Idade": 42,
+      "Disciplina": "Biologia",
+      "Email": "diogo9898@gmail.com",
+      "Formação": "Graduação"
     }
   },
-  "curso": {
+  "Curso": {
     "C1": {
-      "nome": "Desenvolvimento de Sistemas",
-      "coordenador": "José de Souza",
-      "predio": "Fatec"
+      "Nome": "Desenvolvimento de Sistemas",
+      "Coordenador": "José de Souza",
+      "Prédio": "FATEC",
+      "Anos de duração": 5
     },
     "C2": {
-      "nome": "Desenvolvimento de Sistemas",
-      "coordenador": "Mario Andrade de almeida",
-      "predio": "ETEC"
+      "Nome": "Desenvolvimento de Sistemas",
+      "Coordenador": "Mario Andrade de almeida",
+      "Prédio": "ETEC",
+      "Anos de duração": 3
     },
     "C3": {
-      "nome": "Administração",
-      "coordenador": "Elena Pereira",
-      "predio": "Fatec"
+      "Nome": "Administração",
+      "Coordenador": "Elena Pereira",
+      "Prédio": "FATEC"
     },
     "C4": {
-      "nome": "Meio Ambiente",
-      "coordenador": "Paulo de Souza",
-      "predio": "ETEC"
+      "Nome": "Meio Ambiente",
+      "Coordenador": "Paulo de Souza",
+      "Prédio": "ETEC",
+      "Anos de duração": 3
+    }
+  },
+  "ETEC": {
+    "Un1": {
+    "Professores": 20,
+    "Salas": 6,
+    "Diretor": "Marco de Oliveira",
+    "Diretoria": "Itu"
+    },
+    "Un2": {
+    "Professores": 30,
+    "Salas": 8,
+    "Diretor": "Kauã da Silva Pereira Júnior",
+    "Diretoria": "Salto"
+    },
+    "Un3": {
+    "Professores": 10,
+    "Salas": 4,
+    "Diretor": "Marcos de Almeida Rosa"
+    },
+    "Un4": {
+    "Professores": 22,
+    "Salas": 7,
+    "Diretor": "Luiza de Oliveira Prestes"
+    }
+  },
+  "Cidades": {
+    "Cd1": {
+    "Nome": "Salto",
+    "Nº de habitantes": 250000,
+    "Nº de Instituições do Centro Paula Souza": 1,
+    "Nº de ETECS": 3,
+    "Nº de FATECS": 4
+    },
+    "Cd2": {
+    "Nome": "Itu",
+    "Nº de habitantes": 500000,
+    "Nº de Instituições do Centro Paula Souza": 3,
+    "Nº de FATECS": 2
+    },
+    "Cd3": {
+    "Nome": "Indaiatuba",
+    "Nº de habitantes": 600000,
+    "Nº de Instituições do Centro Paula Souza": 5,
+    "Nº de ETECS": 1,
+    "Nº de FATECS": 2
+    },
+    "Cd4": {
+    "Nome": "Campinas",
+    "Nº de habitantes": 1000000,
+    "Nº de Instituições do Centro Paula Souza": 2,
+    "Nº de FATECS": 3
     }
   }
 }
